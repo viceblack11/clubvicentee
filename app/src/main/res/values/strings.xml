@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">clubvicentee</string>
+    <string name="nombre_participante">Nombre de los participantes</string>
+    <string name="nombre_telefono">Numero de telefono</string>
+    <string name="nombre_documento">Numero de Documentos</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="introducir_nombre">Introduzca Nombre</string>
+    <string name="introducir_telefono">Introduzca Telefono</string>
+    <string name="introducir_documento">Introduzca Documento</string>
+    <string name="inicio_uno">Bienvenidos al Club de Baloncesto.
+Aquí encontrarás una comunidad de amantes del baloncesto unidos por el amor a este emocionante deporte.
+Desde la sección principal de nuestra aplicación, podrás interactuar con los miembros y participar en nuestras actividades.
+¡Únete a nosotros y forma parte de nuestra familia de baloncesto!</string>
+    <string name="TITULO">Altos sport</string>
+    <string name="INICIO">INICIO</string>
+</resources>
